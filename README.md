@@ -5,7 +5,7 @@ Sound As Color is an interactive soundscape where each pixel (& it's correspondi
 
 <table>
   <td><img src="sound1.jpg" /></td>
-  <td><img style="sound2.jpg" /></td>  
+  <td><img src="sound2.jpg" /></td>  
 </table>
 
-<img style="sound3.jpg" />
+<img src="sound3.png" />
